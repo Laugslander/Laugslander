@@ -18,7 +18,7 @@ I am a software engineer, specialized in cloud native backend development.
 
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=dark&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Certifications
 

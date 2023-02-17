@@ -34,7 +34,7 @@ I am a software engineer, specialized in cloud native backend development.
     </a>
 </p>
 
-<p align="center">
+<p>
     <a href="https://www.credly.com/badges/18ff3b07-e461-4ae7-bf74-9590eebddd1c">
         <img src="https://images.credly.com/size/680x680/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="Oracle Certified Professional: Java SE 11 Developer" height="140">
     </a>

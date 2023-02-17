@@ -18,23 +18,23 @@ I am a software engineer, specialized in cloud native backend development.
 
 <p align="center">
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">
-        <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="140">
+        <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS Certified Solutions Architect – Professional" height="150">
     </a>
     <a href="https://www.credly.com/badges/e7572c57-c075-447d-a99c-29dd78d94aa0">
-        <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="140">
+        <img src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" height="150">
     </a>
     <a href="https://www.credly.com/badges/2eafcd02-816e-4be9-b9e0-c86e3ba475e1">
-        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="140">
+        <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" height="150">
     </a>
     <a href="https://www.credly.com/badges/a030d75d-bf6f-4daf-b46d-5f1d07cdaf73">
         <img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" height="140">
     </a>     
     <a href="https://www.credly.com/badges/406f9e16-1410-4d35-87f7-f9f0cb9fc537">
-        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" height="140">
+        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" height="150">
     </a>
 </p>
 
-<p>
+<p align="center">
     <a href="https://www.credly.com/badges/18ff3b07-e461-4ae7-bf74-9590eebddd1c">
         <img src="https://images.credly.com/size/680x680/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="Oracle Certified Professional: Java SE 11 Developer" height="140">
     </a>

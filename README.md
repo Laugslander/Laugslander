@@ -1,10 +1,8 @@
-# [Robin Laugs :wave:](https://www.linkedin.com/in/robinlaugs/)
+## Hello, my name is [Robin Laugs :wave:](https://www.linkedin.com/in/robinlaugs/)
 
-Software engineer, specialized in cloud native backend development.
+I am a software engineer, specialized in cloud native backend development.
 
 ## Certifications :trophy:
-
-### Cloud computing :cloud:
 
 <p align="center">
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">
@@ -23,8 +21,6 @@ Software engineer, specialized in cloud native backend development.
         <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" height="140">
     </a>
 </p>
-
-### Development :coffee:
 
 <p align="center">
     <a href="https://www.credly.com/badges/18ff3b07-e461-4ae7-bf74-9590eebddd1c">

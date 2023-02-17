@@ -2,7 +2,7 @@
 
 I am a software engineer, specialized in cloud native backend development.
 
-## Certifications :trophy:
+### Certifications :trophy:
 
 <p align="center">
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">
@@ -40,7 +40,7 @@ I am a software engineer, specialized in cloud native backend development.
     </a>                
 </p>
 
-## Technologies :hammer:
+### Technologies :hammer:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
@@ -52,5 +52,4 @@ I am a software engineer, specialized in cloud native backend development.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
-
-## GitHub statistics :octocat:
+### GitHub statistics :octocat:

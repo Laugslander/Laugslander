@@ -26,9 +26,6 @@ I am a software engineer, specialized in cloud native backend development.
     <a href="https://www.credly.com/badges/406f9e16-1410-4d35-87f7-f9f0cb9fc537">
         <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" height="150">
     </a>
-</p>
-
-<p align="center">
     <a href="https://www.credly.com/badges/18ff3b07-e461-4ae7-bf74-9590eebddd1c">
         <img src="https://images.credly.com/size/680x680/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png" alt="Oracle Certified Professional: Java SE 11 Developer" height="150">
     </a>   

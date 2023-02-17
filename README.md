@@ -14,6 +14,10 @@ I am a software engineer, specialized in cloud native backend development.
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
+### Statistics
+
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Certifications
 
 <p>

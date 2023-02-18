@@ -4,15 +4,15 @@ I am a software engineer, specialized in cloud native backend development.
 
 ### Technologies
 
-![Java](https://img.shields.io/badge/-Java-dark?style=flat&logo=openjdk)
-![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-dark?style=flat&logo=amazon-aws)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-dark?style=flat&logo=springboot)
-![Terraform](https://img.shields.io/badge/-Terraform-dark?style=flat&logo=terraform)
-![Python](https://img.shields.io/badge/-Python-dark?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-dark?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-dark?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-dark?style=flat&logo=github-actions)
-![Linux](https://img.shields.io/badge/-Linux-dark?style=flat&logo=linux)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
+![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-dark?style=black&logo=github-actions)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
 ### Statistics
 

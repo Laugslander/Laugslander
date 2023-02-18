@@ -10,6 +10,8 @@ I am a software engineer, specialized in cloud native backend development.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
+### Statistics
+
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&stroke=dbdbdf&ring=518acb&sideLabels=dbdbdf&dates=dbdbdf&border=dbdbdf#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 [![GitHub streak](https://streak-stats.demolab.com?user=Laugslander&ring=518acb&fire=518ACB&currStreakLabel=151314#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
 
@@ -18,6 +20,8 @@ I am a software engineer, specialized in cloud native backend development.
 
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+### Certifications
 
 <p>
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">

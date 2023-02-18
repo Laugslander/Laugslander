@@ -11,7 +11,7 @@ I am a software engineer, specialized in cloud native backend development.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-dark?style=black&logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=black&logo=github-actions)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
 ### Statistics

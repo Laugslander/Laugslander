@@ -32,10 +32,10 @@ I am a software engineer, specialized in cloud native backend development.
 
 ### Statistics
 
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&stroke=dbdbdf&ring=518ACB&sideLabels=dbdbdf&dates=dbdbdf&border=dbdbdf#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&count_private=true&hide=stars,contribs&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=falsee&count_private=true&hide=stars,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&stroke=dbdbdf&ring=518ACB&sideLabels=dbdbdf&dates=dbdbdf&border=dbdbdf)](https://git.io/streak-stats)

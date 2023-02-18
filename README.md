@@ -6,10 +6,8 @@ I am a software engineer, specialized in cloud native backend development.
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=black&logo=github-actions)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
 ### Statistics

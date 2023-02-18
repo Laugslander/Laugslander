@@ -34,6 +34,10 @@ I am a software engineer, specialized in cloud native backend development.
     <a href="https://www.credly.com/badges/c487230b-675b-4498-80a4-4947cf218b1b">
         <img src="https://images.credly.com/size/340x340/images/3e1a7290-fade-4be4-9bcd-1a7743294a81/Oracle_Professional_Badge__1_.png" alt="
 Oracle Certified Professional, Java SE 8 Programmer" height="140">
+    </a>
+    <a href="https://www.credly.com/badges/40782c7c-0894-4361-a054-389453939178">
+        <img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" alt="
+Oracle Certified Associate, Java SE 8 Programmer" height="140">
     </a>        
     </a>   
     <a href="https://bcert.me/bc/html/show-badge.html?b=fgkszkug">

@@ -19,8 +19,6 @@ I am a software engineer, specialized in cloud native backend development.
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laugslander&theme=tokyonight" alt="mystreak"/>
-<img src="https://komarev.com/ghpvc/?username=Laugslander&color=brightgreen" alt="watching_count" />
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Laugslander&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Certifications
 

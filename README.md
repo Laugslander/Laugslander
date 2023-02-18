@@ -1,4 +1,4 @@
-## Hello, my name is [Robin Laugs]()
+## Hello, my name is Robin Laugs
 
 I am a software engineer, specialized in cloud native backend development.
 

@@ -39,14 +39,14 @@ I am a software engineer, specialized in cloud native backend development.
     </a>
     <a href="https://www.credly.com/badges/40782c7c-0894-4361-a054-389453939178">
         <img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" alt="Oracle Certified Associate, Java SE 8 Programmer" height="140">
-    </a>        
+    </a>       
+    <a href="https://bcert.me/bc/html/show-badge.html?b=fgkszkug">
+        <img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png" alt="Pivotal Certified Spring Professional" height="140">
+    </a>    
     <a href="https://www.credly.com/badges/d235e2c7-3b93-41c8-8ba4-a5ab6cca99db">
         <img src="https://images.credly.com/size/340x340/images/9ba65b84-382b-4968-b93b-e9fb399c0e29/silver_2_small.png" alt="Certified Associate in Python Programming" height="140">
     </a>        
     </a>
-    <a href="https://bcert.me/bc/html/show-badge.html?b=fgkszkug">
-        <img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png" alt="Pivotal Certified Spring Professional" height="140">
-    </a>          
 </p>
 
 ### Statistics

@@ -38,4 +38,4 @@ I am a software engineer, specialized in cloud native backend development.
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&border=FFFFFF&stroke=FFFFFF&ring=518ACB&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&stroke=EBEBEB&ring=518ACB&sideLabels=EBEBEB&dates=EBEBEB&border=EBEBEB)](https://git.io/streak-stats)

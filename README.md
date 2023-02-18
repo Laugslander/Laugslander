@@ -17,8 +17,7 @@ I am a software engineer, specialized in cloud native backend development.
 ### Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=dark
-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=dark" />

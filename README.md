@@ -10,16 +10,6 @@ I am a software engineer, specialized in cloud native backend development.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
-### Statistics
-
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laugslander&theme=tokyonight" alt="mystreak"/>
-
 ### Certifications
 
 <p>
@@ -39,3 +29,13 @@ I am a software engineer, specialized in cloud native backend development.
         <img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png" alt="Pivotal Certified Spring Professional" height="140">
     </a>          
 </p>
+
+### Statistics
+
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Laugslander&hide_title=true&text_bold=false&include_all_commits=true&count_private=true&hide=stars,contribs&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laugslander&layout=compact&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laugslander&theme=tokyonight" alt="mystreak"/>

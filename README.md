@@ -2,7 +2,7 @@
 
 I am a software engineer, specialized in cloud native backend development.
 
-</hr>
+___
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)

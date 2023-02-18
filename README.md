@@ -1,4 +1,4 @@
-## Hello, my name is Robin Laugs
+# Hello, my name is Robin Laugs
 
 I am a software engineer, specialized in cloud native backend development.
 
@@ -10,7 +10,7 @@ I am a software engineer, specialized in cloud native backend development.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
-### Certifications
+## Certifications
 
 <p>
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">
@@ -30,7 +30,7 @@ I am a software engineer, specialized in cloud native backend development.
     </a>          
 </p>
 
-### Statistics
+## Statistics
 
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=Laugslander&theme=github-dark&stroke=dbdbdf&ring=518ACB&sideLabels=dbdbdf&dates=dbdbdf&border=dbdbdf#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 

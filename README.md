@@ -2,11 +2,12 @@
 
 I am a software engineer, specialized in cloud native backend development.
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
-![Amazon Web Servces](https://img.shields.io/badge/Amazon%20Web%20Services-black?style=flat&logo=amazon-aws)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-web-services)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 

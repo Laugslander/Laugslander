@@ -19,6 +19,10 @@ I am a software engineer, specialized in cloud native backend development.
 ### Certifications
 
 <p>
+    <a href="https://www.credly.com/badges/90634552-8a56-4b8a-8316-a4d9a8d31d3c">
+        <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
+            alt="Certified Kubernetes Application Developer" height="140">
+    </a>    
     <a href="https://www.credly.com/badges/d9e6db60-83e7-4403-a338-ad5527f52554">
         <img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png"
             alt="AWS Certified Solutions Architect – Professional" height="140">
@@ -35,13 +39,13 @@ I am a software engineer, specialized in cloud native backend development.
         <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
             alt="AWS Certified Developer – Associate" height="140">
     </a>
-    <a href="https://www.credly.com/badges/406f9e16-1410-4d35-87f7-f9f0cb9fc537">
-        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
-            alt="HashiCorp Certified: Terraform Associate" height="140">
-    </a>
 <p>
 
 <p>
+    <a href="https://www.credly.com/badges/406f9e16-1410-4d35-87f7-f9f0cb9fc537">
+        <img src="https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png"
+            alt="HashiCorp Certified: Terraform Associate" height="140">
+    </a>    
     <a href="https://www.credly.com/badges/18ff3b07-e461-4ae7-bf74-9590eebddd1c">
         <img src="https://images.credly.com/size/680x680/images/6f2a9ef8-4da2-4e67-bd52-84fbaa1af776/02_Java-SE-11-Developer_Professional__1_.png"
             alt="Oracle Certified Professional: Java SE 11 Developer" height="140">
@@ -57,7 +61,10 @@ I am a software engineer, specialized in cloud native backend development.
     <a href="https://bcert.me/bc/html/show-badge.html?b=fgkszkug">
         <img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png"
             alt="Pivotal Certified Spring Professional" height="140">
-    </a>
+    </a>    
+</p>
+
+<p>
     <a href="https://www.credly.com/badges/d235e2c7-3b93-41c8-8ba4-a5ab6cca99db">
         <img src="https://images.credly.com/size/340x340/images/9ba65b84-382b-4968-b93b-e9fb399c0e29/silver_2_small.png"
             alt="Certified Associate in Python Programming" height="140">

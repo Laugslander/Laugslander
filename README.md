@@ -2,14 +2,16 @@
 
 I am a software engineer, specialized in cloud native backend development.
 
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazon-web-services)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ### Statistics
 

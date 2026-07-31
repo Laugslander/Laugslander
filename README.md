@@ -12,6 +12,7 @@ I am a software engineer, specialized in cloud native backend development.
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 
 ### Statistics
 
@@ -21,6 +22,10 @@ I am a software engineer, specialized in cloud native backend development.
 ### Certifications
 
 <p>
+    <a href="https://learn.microsoft.com/en-us/users/Laugslander/credentials/3F845EEE1F2FB68C">
+        <img src="https://learn.github.com/assets/badge-agentic-CGmH6Auv.png"
+            alt="GitHub Certified Agentic AI Developer" height="140">
+    </a>
     <a href="https://www.credly.com/badges/90634552-8a56-4b8a-8316-a4d9a8d31d3c">
         <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
             alt="Certified Kubernetes Application Developer" height="140">
@@ -37,13 +42,13 @@ I am a software engineer, specialized in cloud native backend development.
         <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
             alt="AWS Certified Solutions Architect – Associate" height="140">
     </a>
+</p>
+
+<p>
     <a href="https://www.credly.com/badges/a030d75d-bf6f-4daf-b46d-5f1d07cdaf73">
         <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"
             alt="AWS Certified Developer – Associate" height="140">
     </a>
-<p>
-
-<p>
     <a href="https://www.credly.com/badges/406f9e16-1410-4d35-87f7-f9f0cb9fc537">
         <img src="https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob"
             alt="HashiCorp Certified: Terraform Associate" height="140">
@@ -60,13 +65,13 @@ I am a software engineer, specialized in cloud native backend development.
         <img src="https://images.credly.com/size/340x340/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png"
             alt="Oracle Certified Associate, Java SE 8 Programmer" height="140">
     </a>
+</p>
+
+<p>
     <a href="https://bcert.me/bc/html/show-badge.html?b=fgkszkug">
         <img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png"
             alt="Pivotal Certified Spring Professional" height="140">
     </a>    
-</p>
-
-<p>
     <a href="https://www.credly.com/badges/d235e2c7-3b93-41c8-8ba4-a5ab6cca99db">
         <img src="https://images.credly.com/size/340x340/images/9ba65b84-382b-4968-b93b-e9fb399c0e29/silver_2_small.png"
             alt="Certified Associate in Python Programming" height="140">

@@ -24,7 +24,7 @@ I am a software engineer, specialized in cloud native backend development.
 <p>
     <a href="https://learn.microsoft.com/en-us/users/Laugslander/credentials/3F845EEE1F2FB68C">
         <img src="https://learn.github.com/assets/badge-agentic-CGmH6Auv.png"
-            alt="GitHub Certified Agentic AI Developer" height="140">
+            alt="GitHub Certified Agentic AI Developer" height="130" hspace="5">
     </a>
     <a href="https://www.credly.com/badges/90634552-8a56-4b8a-8316-a4d9a8d31d3c">
         <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob"
